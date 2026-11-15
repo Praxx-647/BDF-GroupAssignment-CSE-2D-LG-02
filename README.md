@@ -1,4 +1,4 @@
-# 📚 PageTurn Library REST API
+# 📚 Library Management System
 
 > **Course:** Backend Development Fundamentals (CSE2D-Group-02)  
 > **Faculty:** Mr. Siva Sai Teja Chintakrindi  
