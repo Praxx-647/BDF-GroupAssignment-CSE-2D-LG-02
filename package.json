@@ -1,0 +1,24 @@
+{
+  "name": "pageturn-library-api",
+  "version": "1.0.0",
+  "description": "PageTurn Library REST API - Backend Development Fundamentals (CSE2D-Group-02)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "rest-api",
+    "pageturn-library",
+    "backend"
+  ],
+  "author": "CSE2D-Group-02 (Prakash Choudhary, R Ashruth Rayudu, Paidi Sunhith Reddy, Nirupadish Gouda)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
